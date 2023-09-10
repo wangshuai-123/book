@@ -1,0 +1,28 @@
+[
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "enabledCookieJar": false,
+    "header": "",
+    "id": 8883,
+    "lastUpdateTime": 1692534001057,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "度博文",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 5}}&per=4106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=12&aue=6&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "concurrentRate": "0",
+    "contentType": "",
+    "enabledCookieJar": false,
+    "header": "",
+    "id": 8881632019596388,
+    "lastUpdateTime": 1692534001061,
+    "loginCheckJs": "",
+    "loginUi": "",
+    "loginUrl": "",
+    "name": "思必驰",
+    "url": "https://dds.dui.ai/runtime/v1/synthesize?voiceId=madoufp_wenrou&text={{java.encodeURI(java.encodeURI(speakText))}}&speed=1&volume=150&audioType=wav"
+  }
+]
