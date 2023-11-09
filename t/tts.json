@@ -9,7 +9,7 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "1.提示可删,智声AI语音包不稳定,暂时无法使用,请先使用其他语言源,点击上方滚动文本查看更多使用说明",
+    "name": "1.提示可删,智声AI语音包有时不稳定,请先使用其他语言源,点击上方滚动文本查看更多使用说明",
     "url": ""
   },
   {
@@ -221,7 +221,7 @@
     "url": "https://m.fanyi.qq.com/ttsfile?language=0&text={{encodeURIComponent(speakText)}}&platform=H5"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=chudai-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=chudai-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "1695114495265118",
     "concurrentRate": "",
@@ -231,10 +231,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u5973-\u521d\u9edb-\u51b7\u9759\u8be1\u5f02\u78c1\u6027\u5973\u58f0"
+    "name": "\u667a\u58f0Ai-\u5973-\u521d\u9edb-\u51b7\u9759\u8be1\u5f02\u78c1\u6027\u5973\u58f0"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=lvxiaoyou-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=lvxiaoyou-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449514877",
     "concurrentRate": "",
@@ -244,10 +244,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u5973-\u65c5\u5c0f\u60a0-\u6e29\u60c5\u81ea\u7136\u6d41\u7545\u5973\u97f3"
+    "name": "\u667a\u58f0Ai-\u5973-\u65c5\u5c0f\u60a0-\u6e29\u60c5\u81ea\u7136\u6d41\u7545\u5973\u97f3"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yuelin-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yuelin-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449533749",
     "concurrentRate": "",
@@ -257,10 +257,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u5973-\u7ca4\u7433-\u6e29\u67d4\u77e5\u6027\u7ca4\u8bed\u5973\u58f0"
+    "name": "\u667a\u58f0Ai-\u5973-\u7ca4\u7433-\u6e29\u67d4\u77e5\u6027\u7ca4\u8bed\u5973\u58f0"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yanxiaoqing-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yanxiaoqing-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449541723",
     "concurrentRate": "",
@@ -270,10 +270,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u5973-\u8a00\u5c0f\u6e05-\u4eb2\u5207\u60a6\u8033\u8bf4\u4e66\u5973\u97f3"
+    "name": "\u667a\u58f0Ai-\u5973-\u8a00\u5c0f\u6e05-\u4eb2\u5207\u60a6\u8033\u8bf4\u4e66\u5973\u97f3"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=wanqing-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=wanqing-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "1695114495684117",
     "concurrentRate": "",
@@ -283,10 +283,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u5973-\u5a49\u6e05-\u7aef\u5e84\u7a33\u91cd\u5973\u4e3b\u64ad"
+    "name": "\u667a\u58f0Ai-\u5973-\u5a49\u6e05-\u7aef\u5e84\u7a33\u91cd\u5973\u4e3b\u64ad"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yaoyao-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yaoyao-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449564495",
     "concurrentRate": "",
@@ -296,10 +296,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u5973-\u7476\u7476-\u751c\u7f8e\u7075\u52a8\u5c11\u5973\u97f3"
+    "name": "\u667a\u58f0Ai-\u5973-\u7476\u7476-\u751c\u7f8e\u7075\u52a8\u5c11\u5973\u97f3"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yunyi-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yunyi-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "16951144951511",
     "concurrentRate": "",
@@ -309,10 +309,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u7537-\u4e91\u4f9d-\u6296\u97f3\u6700\u706b"
+    "name": "\u667a\u58f0Ai-\u7537-\u4e91\u4f9d-\u6296\u97f3\u6700\u706b"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=kangge-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=kangge-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449560772",
     "concurrentRate": "",
@@ -322,10 +322,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u7537-\u5eb7\u54e5-\u4eb2\u5207\u4e2d\u6b63\u9752\u5e74\u7537\u97f3"
+    "name": "\u667a\u58f0Ai-\u7537-\u5eb7\u54e5-\u4eb2\u5207\u4e2d\u6b63\u9752\u5e74\u7537\u97f3"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yunlong-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yunlong-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449577056",
     "concurrentRate": "",
@@ -335,10 +335,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u7537-\u4e91\u9f99-\u6296\u97f3\u6700\u706b"
+    "name": "\u667a\u58f0Ai-\u7537-\u4e91\u9f99-\u6296\u97f3\u6700\u706b"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yuehao-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=yuehao-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449591943",
     "concurrentRate": "",
@@ -348,10 +348,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u7537-\u7ca4\u8c6a-\u4eb2\u5207\u78c1\u6027\u7ca4\u8bed\u7537\u58f0"
+    "name": "\u667a\u58f0Ai-\u7537-\u7ca4\u8c6a-\u4eb2\u5207\u78c1\u6027\u7ca4\u8bed\u7537\u58f0"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=zhaoyun-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=zhaoyun-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449524428",
     "concurrentRate": "",
@@ -361,10 +361,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u7537-\u8d75\u5b50\u9f99-\u738b\u8005\u8363\u8000\u4eff\u8d75\u4e91"
+    "name": "\u667a\u58f0Ai-\u7537-\u8d75\u5b50\u9f99-\u738b\u8005\u8363\u8000\u4eff\u8d75\u4e91"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=ahua-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=ahua-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449589288",
     "concurrentRate": "",
@@ -374,10 +374,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u7537-\u963f\u534e-\u78c1\u6027\u4f4e\u6c89\uff0c\u53f2\u5b9e\u8bb0\u5f55"
+    "name": "\u667a\u58f0Ai-\u7537-\u963f\u534e-\u78c1\u6027\u4f4e\u6c89\uff0c\u53f2\u5b9e\u8bb0\u5f55"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=junchen-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=junchen-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "1695114495637122",
     "concurrentRate": "",
@@ -387,10 +387,10 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u7537-\u5cfb\u8fb0-\u6e29\u67d4\u78c1\u6027\u7537\u97f3"
+    "name": "\u667a\u58f0Ai-\u7537-\u5cfb\u8fb0-\u6e29\u67d4\u78c1\u6027\u7537\u97f3"
   },
   {
-    "url": "https:\/\/909527.xyz\/tts\/tts,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=guishu-pro\"}",
+    "url": "https:\/\/tts.ck921.com\/Api\/index,{\r\n \"method\": \"POST\",\r\n \"body\": \"text={{java.encodeURI(java.encodeURI(speakText))}}&speaking_rate={{(speakSpeed \/ 10)}}&speaker=guishu-pro\"}",
     "lastUpdateTime": 1695114495,
     "id": "169511449541178",
     "concurrentRate": "",
@@ -400,6 +400,6 @@
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
-    "name": "z(待修复)\u667a\u58f0Ai-\u7537-\u8be1\u53d4-\u51b7\u9759\u8be1\u5f02\u5c0f\u8bf4\u89e3\u8bf4"
+    "name": "\u667a\u58f0Ai-\u7537-\u8be1\u53d4-\u51b7\u9759\u8be1\u5f02\u5c0f\u8bf4\u89e3\u8bf4"
   }
 ]
